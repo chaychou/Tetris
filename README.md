@@ -2,7 +2,7 @@
 
 **环境**
 
-python3
+python3.6
 
 pygame
 
