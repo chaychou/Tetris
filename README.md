@@ -12,4 +12,4 @@ pip install pygame
 
 **键盘按键操作**
 
-欢迎fork，提供新的功能。
+欢迎fork，提供新的功能
